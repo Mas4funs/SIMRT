@@ -28,7 +28,7 @@ import javax.mail.internet.MimeMultipart;
 public class NotificationUtils {
     
     
-    String from = "klp2pemvis@gmail.com";
+    String from = "ertelegokpermai@gmail.com";
     String host = "smtp.gmail.com";
     
     public void sentLaporanWarga(Map data){
@@ -45,7 +45,7 @@ public class NotificationUtils {
             
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("klp2pemvis@gmail.com", "znnrzgmvkfyzullb");
+                return new PasswordAuthentication("ertelegokpermai@gmail.com", "olifxfskuakcujdi");
             }
 
         });
@@ -120,7 +120,7 @@ public class NotificationUtils {
             
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("klp2pemvis@gmail.com", "znnrzgmvkfyzullb");
+                return new PasswordAuthentication("ertelegokpermai@gmail.com", "olifxfskuakcujdi");
             }
 
         });
@@ -195,7 +195,7 @@ public class NotificationUtils {
             
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("klp2pemvis@gmail.com", "znnrzgmvkfyzullb");
+                return new PasswordAuthentication("ertelegokpermai@gmail.com", "olifxfskuakcujdi");
             }
 
         });
@@ -272,7 +272,7 @@ public class NotificationUtils {
             
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("klp2pemvis@gmail.com", "znnrzgmvkfyzullb");
+                return new PasswordAuthentication("ertelegokpermai@gmail.com", "olifxfskuakcujdi");
             }
 
         });

@@ -16,7 +16,7 @@ import util.DBUtils;
 import util.EncryptionUtils;
 /**
  *
- * @author galih
+ * @author adi
  */
 public class FormLogin extends javax.swing.JFrame {
 

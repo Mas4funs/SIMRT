@@ -524,7 +524,7 @@ where noemail = $P{noemail}]]></queryString>
 					<textElement>
 						<font/>
 					</textElement>
-				<text><![CDATA[Email: ...... atau, ]]></text>
+				<text><![CDATA[Email   : ertelegokpermai@gmail.com]]></text>
 				</staticText>
 				<staticText>
 					<reportElement
@@ -541,7 +541,7 @@ where noemail = $P{noemail}]]></queryString>
 					<textElement>
 						<font/>
 					</textElement>
-				<text><![CDATA[No. WA: ........................]]></text>
+				<text><![CDATA[No. WA : 08980474071]]></text>
 				</staticText>
 				<staticText>
 					<reportElement

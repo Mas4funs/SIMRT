@@ -537,6 +537,7 @@ public class FormTrxLaporanWarga extends javax.swing.JDialog {
         data.put("attachment", is);
         
         new NotificationUtils().sentLaporanWarga(data);
+        JOptionPane.showMessageDialog(null, "Berhasil Terkirim", "Informasi", JOptionPane.INFORMATION_MESSAGE);
     }
     
     

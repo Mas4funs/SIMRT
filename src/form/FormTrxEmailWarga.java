@@ -480,6 +480,7 @@ public class FormTrxEmailWarga extends javax.swing.JDialog {
         data.put("attachment", is);
         
         new NotificationUtils().sentEmailWarga(data);
+        JOptionPane.showMessageDialog(null, "Berhasil Terkirim", "Informasi", JOptionPane.INFORMATION_MESSAGE);
     }
 
     

@@ -436,6 +436,7 @@ public class FormTrxSuratWarga extends javax.swing.JDialog {
         data.put("attachment", is);
         
         new NotificationUtils().sentSuratWarga(data);
+        JOptionPane.showMessageDialog(null, "Berhasil Terkirim", "Informasi", JOptionPane.INFORMATION_MESSAGE);
     }
     
     public void clearForm(){
